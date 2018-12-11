@@ -1,0 +1,53 @@
+{
+    "title": "The Odyssey",
+    "author": "Homer",
+    "id": 0,
+    "image": "https://i.harperapps.com/covers/9780061244186/y648.jpg",
+    "word_list": [
+        {
+            "id": 0,
+            "completed": false,
+            "word": "Abominably",
+            "punctuation": "a·bom·i·na·bly",
+            "type": "(adverb)",
+            "definition": "very unpleasantly or unfairly",
+            "example": "he had treated her abominably"
+        },
+        {
+            "id": 1,
+            "word": "Abominably1",
+            "completed": false,
+            "punctuation": "a·bom·i·na·bly",
+            "type": "(adverb)",
+            "definition": "very unpleasantly or unfairly",
+            "example": "he had treated her abominably"
+        },
+        {
+            "id": 2,
+            "word": "Abominably2",
+            "completed": false,
+            "punctuation": "a·bom·i·na·bly",
+            "type": "(adverb)",
+            "definition": "very unpleasantly or unfairly",
+            "example": "he had treated her abominably"
+        },
+        {
+            "id": 3,
+            "word": "Abominably3",
+            "completed": false,
+            "punctuation": "a·bom·i·na·bly",
+            "type": "(adverb)",
+            "definition": "very unpleasantly or unfairly",
+            "example": "he had treated her abominably"
+        },
+        {
+            "id": 4,
+            "word": "Abominably4",
+            "completed": false,
+            "punctuation": "a·bom·i·na·bly",
+            "type": "(adverb)",
+            "definition": "very unpleasantly or unfairly",
+            "example": "he had treated her abominably"
+        }
+    ]
+}
